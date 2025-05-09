@@ -112,6 +112,6 @@ Contribuições são bem-vindas! Para contribuir:
 
 ## 📞 Contato
 
-Ronaldo Chiavegatti - [ronaldo.chiavegatti@email.com](mailto:ronaldo.chiavegatti@email.com)
+Ronaldo Chiavegatti - [rochiaveg@gmail.com](mailto:rochiaveg@gmail.com)
 
 Link do Projeto: [https://github.com/RonaldoChiavegatti/foco-estudo](https://github.com/RonaldoChiavegatti/foco-estudo) 
